@@ -1,0 +1,4 @@
+signxml
+qrcode
+requests
+pyOpenSSL
